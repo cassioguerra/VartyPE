@@ -31,12 +31,15 @@
 		</dependency>
 
 		<dependency>
+<<<<<<< HEAD
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
+=======
+>>>>>>> 09172ef3ff7f7cab909ffd318f365c15f4823c41
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
